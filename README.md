@@ -1,1 +1,2 @@
-# CTFs\ a repo for all my CTFs write up
+# CTFs
+a repo of my CTFs Writeup
