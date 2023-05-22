@@ -1,4 +1,4 @@
-Level 1
+Level 1\
 Gandalf: Ask me for the password and I'll happily answer!
 
 \# 1\
