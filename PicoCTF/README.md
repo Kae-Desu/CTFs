@@ -1,20 +1,15 @@
 # PicoCTF
 
-So far ive done amount of challenge in PicoCTF such as
-- Binary Exploitation = 2/46
-- Cryptography = 9/57
-- Forensics = 8/57
-- General Skills = 40/42
-- Reverse Engineering = 12/76
-- Web Exploitation = 31/52
+this is my PicoCTF Writeup Repository
+So far i've solve some of challenge in PicoCTF as below
+
+| Category | Released WU | Solved |
+|:----------|:----------:|:----------:|
+| Binary Exploitation | 0 | 2 |
+| Cryptography | 0 | 9 |
+| Forensics | 0 | 8 |
+| General Skills | 3 | 40 |
+| Reverse Engineering | 0 | 12 |
+| Web Exploitation | 0 | 31 |
 
 feel free to look around for anything you need, chall list is on respective directory
-| Category | Released WU |
-|:----------|:----------:|
-| Binary Exploitation | 0 |
-| Cryptography | 0 |
-| Binary Exploitation | 0 |
-| Forensics | 0 |
-| General Skills | 3 |
-| Reverse Engineering | 0 |
-| Web Exploitation | 0 |
