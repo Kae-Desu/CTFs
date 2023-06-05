@@ -6,7 +6,7 @@ this is the "general skills" directory
 | Obdient Cat |     5     | ✔️ | ✔️ |
 | Python Wrangling |     10     | ✔️ | ✔️ |
 | Wave a flag |     10     | ✔️ | ✔️ |
-| Nice netcat... |     15     | ✔️ | ✖️ |
+| Nice netcat... |     15     | ✔️ | ✔️ |
 | Static ain't always noice |     20     | ✔️ | ✖️ |
 | Tab, Tab Attack |     20     | ✔️ | ✖️ |
 | Magikarp Ground Mission |     30     | ✔️ | ✖️ |
