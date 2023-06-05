@@ -2,7 +2,7 @@
 
 So far ive done amount of challenge in PicoCTF such as
 - Binary Exploitation = 2/46
-- Cryptography = 9/47
+- Cryptography = 9/57
 - Forensics = 8/57
 - General Skills = 40/42
 - Reverse Engineering = 12/76
