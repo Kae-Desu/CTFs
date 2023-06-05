@@ -9,3 +9,12 @@ So far ive done amount of challenge in PicoCTF such as
 - Web Exploitation = 31/52
 
 feel free to look around for anything you need, chall list is on respective directory
+| Category | Released WU |
+|:----------|:----------:|
+| Binary Exploitation | 0 |
+| Cryptography | 0 |
+| Binary Exploitation | 0 |
+| Forensics | 0 |
+| General Skills | 3 |
+| Reverse Engineering | 0 |
+| Web Exploitation | 0 |
