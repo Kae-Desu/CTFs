@@ -1,5 +1,5 @@
 # General Skills
-this is the "general skills" directory
+this is the "General Skills" directory
 
 | Challenge Name | Points | Solve | WU |
 |:----------|:----------:|:----------:|:----------:|
