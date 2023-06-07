@@ -7,7 +7,7 @@ this is the "General Skills" directory
 | Python Wrangling |     10     | ✔️ | ✔️ |
 | Wave a flag |     10     | ✔️ | ✔️ |
 | Nice netcat... |     15     | ✔️ | ✔️ |
-| Static ain't always noice |     20     | ✔️ | ✖️ |
+| Static ain't always noise |     20     | ✔️ | ✖️ |
 | Tab, Tab Attack |     20     | ✔️ | ✖️ |
 | Magikarp Ground Mission |     30     | ✔️ | ✖️ |
 | Lets Warm Up |     50     | ✔️ | ✖️ |
