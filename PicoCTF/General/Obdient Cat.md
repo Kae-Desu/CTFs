@@ -1,6 +1,6 @@
 Obdient Cat [5 pts]\
 tag: general skills\
-desc: This file has a flag in plain sight (aka "in-the-clear"). Download flag.
+desc: This file has a flag in plain sight (aka "in-the-clear"). Download flag.\
 attachment: flag
 
 given a challange and the desc already clues me about the flag in a plain sight
