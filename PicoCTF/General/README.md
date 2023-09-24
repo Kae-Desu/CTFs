@@ -7,10 +7,10 @@ this is the "General Skills" directory
 | Python Wrangling |     10     | ✔️ | ✔️ |
 | Wave a flag |     10     | ✔️ | ✔️ |
 | Nice netcat... |     15     | ✔️ | ✔️ |
-| Static ain't always noise |     20     | ✔️ | ✖️ |
-| Tab, Tab Attack |     20     | ✔️ | ✖️ |
-| Magikarp Ground Mission |     30     | ✔️ | ✖️ |
-| Lets Warm Up |     50     | ✔️ | ✖️ |
+| Static ain't always noise |     20     | ✔️ | ✔️ |
+| Tab, Tab Attack |     20     | ✔️ | ✔️ |
+| Magikarp Ground Mission |     30     | ✔️ | ✔️ |
+| Lets Warm Up |     50     | ✔️ | ✔️ |
 | Warmed up |     50     | ✔️ | ✖️ |
 | 2Warm |     50     | ✔️ | ✖️ |
 | What's a net cat? |     100     | ✔️ | ✖️ |
